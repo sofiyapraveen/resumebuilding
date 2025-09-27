@@ -1,4 +1,4 @@
-# Resume Builder
+# resumebuilding
 
 A responsive web application that lets users create, preview, and download professional resumes in PDF format.
 
